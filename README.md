@@ -4,12 +4,13 @@
 
 ∙실습에 필요한 데이터셋 대부분은 챕터별 data 폴더에 들어 있습니다.</br>
 (10장 wiki.ko.vec만 별도로 내려받습니다.(약 2GB))</br>
+(10장 IMDB Dataset.zip 파일은 압축을 풀어 data 폴더에 넣어 실습합니다.)
 
 ∙대용량 데이터셋은 깃허브에 올라가지 않습니다. 아래 링크에서 내려받아 각 챕터의 data 폴더에 넣어 실습하세요. </br>
  ∙ 6장 [vgg19_weights_tf_dim_ordering_tf_kernels.h5](https://github.com/gilbutITbook/080263/releases/download/0.1/vgg19_weights_tf_dim_ordering_tf_kernels.h5) </br>
  ∙ 9장 [covtype.csv](https://github.com/gilbutITbook/080263/releases/download/0.1/covtype.csv) </br>
  ∙ 10장 [glove.6B.100d.txt](https://github.com/gilbutITbook/080263/releases/download/0.2/glove.6B.100d.txt) </br>
- ∙ 10장 [IMDB Dataset.csv](https://github.com/gilbutITbook/080263/releases/download/0.2/IMDB.Dataset.csv) </br>
+
 
 ∙통 파일이 아닌 챕터별 예제 파일을 내려받고 싶다면 아래 링크에서 해당 챕터를 클릭해 내려받을 수 있습니다(6, 9, 10장 대용량 데이터 포함됨). </br>
  ∙2장 [환경_설정과_텐서플로_기초](https://github.com/gilbutITbook/080263/releases/download/0.3/chap2.zip)</br>
