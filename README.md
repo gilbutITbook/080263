@@ -15,14 +15,14 @@ https://fasttext.cc/docs/en/pretrained-vectors.html 에서 Korea의 txt 파일 <
 
 ∙대용량 데이터셋은 깃허브에 올라가지 않습니다. 아래 링크에서 내려받아 각 챕터의 data 폴더에 넣어 실습하세요. </br>
 
- ∙ 6장 [vgg19_weights_tf_dim_ordering_tf_kernels.h5](https://github.com/gilbutITbook/080263/releases/download/0.1/vgg19_weights_tf_dim_ordering_tf_kernels.h5) </br> 
- 사이트 URL: https://www.kaggle.com/keras/vgg19?select=vgg19_weights_tf_dim_ordering_tf_kernels.h5</br> 
+   ∙ 6장 [vgg19_weights_tf_dim_ordering_tf_kernels.h5](https://github.com/gilbutITbook/080263/releases/download/0.1/vgg19_weights_tf_dim_ordering_tf_kernels.h5) </br> 
+   사이트 URL: https://www.kaggle.com/keras/vgg19?select=vgg19_weights_tf_dim_ordering_tf_kernels.h5</br> 
 
- ∙ 9장 [covtype.csv](https://github.com/gilbutITbook/080263/releases/download/0.1/covtype.csv) </br>
-사이트 URL: https://datahub.io/machine-learning/covertype</br>
+   ∙ 9장 [covtype.csv](https://github.com/gilbutITbook/080263/releases/download/0.1/covtype.csv) </br>
+  사이트 URL: https://datahub.io/machine-learning/covertype</br>
 
- ∙ 10장 [glove.6B.100d.txt](https://github.com/gilbutITbook/080263/releases/download/0.2/glove.6B.100d.txt) </br>
- 사이트 URL: https://nlp.stanford.edu/projects/glove/ </br>
+   ∙ 10장 [glove.6B.100d.txt](https://github.com/gilbutITbook/080263/releases/download/0.2/glove.6B.100d.txt) </br>
+   사이트 URL: https://nlp.stanford.edu/projects/glove/ </br>
 
 ∙데이터셋은 python과 colab 모두 동일하게 사용하며, 일부 압축 파일은 colab 실습용입니다.</br>
 
