@@ -14,6 +14,7 @@ https://fasttext.cc/docs/en/pretrained-vectors.html 에서 Korea의 txt 파일 <
 ∙10장 IMDB Dataset 파일은 data 폴더에 압축 파일로 제공됩니다. 압축을 풀어 사용합니다.
 
 ∙대용량 데이터셋은 깃허브에 올라가지 않습니다. 아래 링크에서 내려받아 각 챕터의 data 폴더에 넣어 실습하세요. </br>
+
  ∙ 6장 [vgg19_weights_tf_dim_ordering_tf_kernels.h5](https://github.com/gilbutITbook/080263/releases/download/0.1/vgg19_weights_tf_dim_ordering_tf_kernels.h5) </br> 
  사이트 URL: https://www.kaggle.com/keras/vgg19?select=vgg19_weights_tf_dim_ordering_tf_kernels.h5</br> 
 
