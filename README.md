@@ -6,7 +6,7 @@
 
 ### =========================================
 
-∙<color:red>아래 설명을 꼭 읽어주세요!!!</br></>
+### ∙아래 설명을 꼭 읽어주세요!!!
 
 ∙10장 wiki.ko.vec만 별도로 내려받습니다.(약 2GB))</br>
 https://fasttext.cc/docs/en/pretrained-vectors.html 에서 Korea의 txt 파일 </br>
